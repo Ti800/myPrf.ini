@@ -1,2 +1,2 @@
 # myPrf.ini
-First time to github for storing some config.
+For saving some configs.
